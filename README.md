@@ -1,1 +1,1 @@
-# -diagnostic_test
+# 진단검사
